@@ -78,26 +78,10 @@
     border-bottom-right-radius: 100%;
 }
 .box:nth-child(11){
-    background: white;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 0;
-    right: 0;
-    top: -50px;
-    margin: auto;
-    border-radius: 0 0 100% 100%;
+
 }
 .box:nth-child(12){
-    background: white;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    bottom: -50px;
-    left: 0;
-    right: 0;
-    margin: auto;
-    border-radius: 100% 100% 0 0;
+
 }
 .circle{
     background: white;
