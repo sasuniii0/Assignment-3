@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Case 4</title>
+
+    <link rel="stylesheet" href="lib/normalize.css">
+    <link rel="stylesheet" href="styles/style4.css">
+</head>
+<body class="container">
+    <section class="section">
+        <div class="card" id="card1"><p>Card 1</p></div>
+        <div class="square" id = "square1">Hello</div>
+    </section>
+    <section class="section">
+        <div class="card" id="card2"><p>Card 2</p></div>
+        <div class="square" id = "square2">How</div>
+    </section>
+    <section class="section">
+        <div class="card" id="card3"><p>Card 3</p></div>
+        <div class="square" id = "square3">Are</div>
+    </section>
+    <section class="section">
+        <div class="card" id="card4"><p>Card 4</p></div>
+        <div class="square" id = "square4">You?</div>
+    </section>
+</body>
+</html>
