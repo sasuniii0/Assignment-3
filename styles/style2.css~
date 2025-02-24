@@ -27,7 +27,6 @@
     min-height: 100vh;
     background: fuchsia;
 }
-/*
 .image-row{
     position: absolute;
     right: 0;
@@ -44,4 +43,4 @@
     min-height: auto;
     background: saddlebrown;
     flex-grow: 1
-}*/
+}
