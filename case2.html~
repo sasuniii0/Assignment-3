@@ -28,11 +28,20 @@
         </aside>
         <div class="main-content">
             <div class="image-row">
-                <div class="box"><img src="image.png" alt="Image"></div>
-                <div class="box"><img src="image.png" alt="Image"></div>
-                <div class="box"><img src="image.png" alt="Image"></div>
+                <div class="box"><i class="fa-solid fa-dragon fa-lg" style="color: #feac20;"></i></div>
+                <div class="box"><img src="assets/icons8-spider-monkey-85.png" alt="Image" width="150" class="monkey"></div>
+                <div class="box"><img src="assets/icons8-spider-monkey-85.png" alt="Image" width="150" class="monkey"></div>
             </div>
             <div class="text-area">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci aut cumque delectus eaque expedita fuga fugiat hic, illum maxime minima porro sed ullam! Ab adipisci consectetur explicabo porro voluptatibus.</p>
