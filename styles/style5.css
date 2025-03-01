@@ -1,0 +1,39 @@
+section{
+    width: 1000px;
+    height: 500px;
+    border: 3px solid black;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+div{
+    border: 2px solid black;
+    background: red;
+}
+div:nth-child(1){
+    background: green;
+}
+div:nth-child(2){
+    background: hotpink;
+}
+div:nth-child(3){
+    background: yellow;
+}
+div:nth-child(4){
+    background: white;
+}
+div:nth-child(5){
+    background: dimgray;
+}
+div:nth-child(6){
+    background: coral;
+}
+div:nth-child(7){
+    background: violet;
+}
+div:nth-child(8){
+    background: darkseagreen;
+}
+div:nth-child(9){
+    background: darkturquoise;
+}
